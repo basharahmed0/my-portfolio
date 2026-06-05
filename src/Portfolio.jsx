@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "bootstrap/dist/css/bootstrap.min.css";
+
 import Sidebar from "./Sidebar";
 import About from "./About";
 import Resume from "./Resume";
